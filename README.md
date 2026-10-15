@@ -1,4 +1,4 @@
-# Netfix-Content-Analytics
+# Netflix-Content-Analytics
 📌 Project Overview
 
 The Netflix Content Analytics Dashboard is a data visualization project developed using Tableau to analyze Netflix movies and TV shows. It provides insights into content distribution, release trends, country-wise representation, content ratings, and movie durations.
