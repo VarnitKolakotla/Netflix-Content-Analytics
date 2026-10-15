@@ -74,6 +74,7 @@ Course: Big Data Analytics
 Project Title: Netflix Content Analytics Dashboard
 Institution: Geethanjali College of Engineering and Technology
 Academic Year: 2026–2027
+
 📌 Conclusion
 
 The Netflix Content Analytics Dashboard demonstrates how Tableau can be used to analyze and visualize a large dataset. Through interactive charts, KPI cards, and geographical maps, the project provides a clear overview of Netflix's content catalogue and its distribution across different categories.
